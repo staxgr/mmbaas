@@ -16,7 +16,7 @@ Download, unzip and run:
 bin/mongod
 ```
 
-Check out this repository and build it.
+Check out this repository and execute it:
 
 ```
 git clone <this repo>
