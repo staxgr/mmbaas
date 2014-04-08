@@ -6,16 +6,17 @@ Provides a minimal backend as a service for mobile. Use it for rapid apps protot
 The aim is to provide you with a flexible backend backed by a data base running in less then 5 minutes.
 
 Installation
+=====
 
 Download, install and run mongodb.
 http://www.mongodb.org/downloads
 
-Download 
-Unzip
-and run
+Download, unzip and run:
 ```
 bin/mongod
 ```
+
+Check out this repository and build it.
 
 ```
 git clone <this repo>
