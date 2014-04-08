@@ -23,7 +23,12 @@ git clone <this repo>
 ./gradlew jettyRun
 ```
 
-Now the back end should be up and running on your local machine on port 8080.
+You should see
+```
+Building 75% > :backend:jettyRun > Running at http://localhost:8080/backend
+```
+
+Now the backend is up and running on your local machine on port 8080.
 
 Test it by adding some new data. Execute the following in a web browser on your machine (tested in Chrome)
 ```
