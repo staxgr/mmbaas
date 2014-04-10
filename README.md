@@ -3,7 +3,7 @@ mmbaas
 
 Provides a minimal backend as a service for mobile. Use it for rapid apps prototyping.
 
-The aim is to provide you with a flexible backend backed by a data base running in less then 5 minutes.
+The aim is to provide you with a flexible backend with a NoSQL database running in less then 5 minutes.
 
 Installation
 =====
